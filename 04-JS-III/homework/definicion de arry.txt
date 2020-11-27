@@ -5,3 +5,5 @@
 Los Arrays son parametros en forma de lista que se asignan en una variable previamente determinada o nombrada, el contenido del arreglo puede contener numeros, string de forma ordenada.  existen dos formas de ingresar datos al arreglo de manera manual o aleatorea mencionando el espacio que vamos a gurdar el dato, o de marnera ordenada usando el comando "array.push" y lo almacena.
 
 Tambien se  pude usar los elementos de arreglo mostralos y a su vez eliminarlos del mismo, usando el comando o parametro "array.pop".  
+
+No es facil de explicar pero me gusta y me apasiona la programacion.
