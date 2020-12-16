@@ -47,7 +47,7 @@ function agregarStringInvertida() {
   String.prototype.reverse =  function(){
     var StringInvertida = "";
 
-  for (i= this.length; i >= 0; i -- {
+  for (i= this.length; i >= 0; i --) {
 
     StringInvertida = StringInvertida + this.charAt(i);
   }  
